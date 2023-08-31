@@ -1,6 +1,6 @@
 {
   inputs.hive.url = "github:divnix/hive";
-  inputs.incl.url = "github:divnix/incl";
+  inputs.incl.url = "github:whs-dot-hk/incl/test";
   
   outputs = {
     hive,
